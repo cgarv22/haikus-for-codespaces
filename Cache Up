@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+ <html>
+ <head>
+  <link href="mystyle.css" rel="stylesheet" type="text/css">
+ <tittle>Welcome to Cache Up</tittle>
+ </head>
+ <body>   
+ <h1>Welcome to Cache Up</h1>
+ <p style="color:greeen;">Cache Up is a financial application that lets people track spending, send money, transfer funds, and make investments.</p>
+ </body>
+ </html>
+
